@@ -19,7 +19,8 @@ An interactive HR Analytics Dashboard developed using Microsoft Power BI to anal
 - Interactive filters and visualizations
 
 ## Dashboard Preview
-Add your dashboard screenshots here.
+<img width="635" height="349" alt="Dashboard" src="https://github.com/user-attachments/assets/09c6d8af-5ead-4743-9e24-7bd93761e14a" />
+
 
 ## Project Files
 - `HR_Analytics_Dashboard.pbix` – Power BI dashboard file.
